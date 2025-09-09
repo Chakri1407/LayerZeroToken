@@ -141,7 +141,7 @@ npx hardhat run scripts/check-balance.ts --network amoy
 The following shows the mint and send transactions on Holesky:
 
 ![Holesky Transactions](ss/Holesky-Txs.png)
-
+Contract Address: 0x30333A70F7F110874b50c149e09f8721A7F22637
 - **Mint Transaction**: 1,000 LZT tokens minted to deployer
 - **Send Transaction**: 100 LZT tokens sent cross-chain to Amoy
 
@@ -149,7 +149,7 @@ The following shows the mint and send transactions on Holesky:
 The corresponding receive transaction on Amoy:
 
 ![Amoy Transaction](ss/Amoy-Txs.png)
-
+Contract Address: 0x4301f0EB12a33B9108648845A770d4149e045450
 - **Execute302 Transaction**: 100 LZT tokens received from Holesky
 
 ## Network Information
